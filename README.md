@@ -2,7 +2,7 @@
 # Srividhya S - IITP_AIMLTN_2601051
 
 ## Documentation Link
-![Google Docs]("https://docs.google.com/document/d/15XK7nfWImom-yr5-MvmDScyOUug7u5-mCrGya3j4ms4/edit?usp=sharing")
+https://docs.google.com/document/d/15XK7nfWImom-yr5-MvmDScyOUug7u5-mCrGya3j4ms4/edit?usp=sharing
 
 ## Output Screenshot
 
