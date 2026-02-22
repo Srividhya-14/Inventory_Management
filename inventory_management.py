@@ -3,7 +3,7 @@ import json
 # Task 1 - Read the inventory
 with open('inventory.json', 'r') as file_handler:
     inventory = json.load(file_handler) 
-    print(len(inventory))
+    print(f"Total Books - {len(inventory)}")
 
 # Task 2 — Update and save
 new_book = {"title": "Atomic Habits", "author": "James Clear", "price": 14.99, "in_stock": True}
